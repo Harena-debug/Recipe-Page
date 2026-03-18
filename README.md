@@ -4,24 +4,28 @@ This is a solution to the [Recipe Page Challenge on Frontend Mentor](https://www
 
 ## Table of contents
 
--[Preview](#preview)
-  -[The challenge](#the-challenge)
-  -[Screenshot](#captured_screen)
-  -[Links](#links)
--[My process](#my-process)
-  -[Built with](#built-with)
--[What I learned](#what I learned)
-  -[Continued development](#continued-development)
-  -[Useful resources](#useful-resources)
-  -[AI collaboration](#ai-collaboration)
--[Author](#author)
--[Acknowledgments](#acknowledgements)
+## Table of contents
+
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+- [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+  - [AI collaboration](#ai-collaboration)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
 
 ## Overview
 
 Creation of a recipe page proposed by Frontend Mentor. 
 
+## The challenge
+The challenge is to create a recipe page using the right HTML semantics and accessibility.
 ### Screenshot
 
 ![Recipe image](image.png)
