@@ -1,53 +1,52 @@
-# Frontend Mentor -Solution de page de recettes
+# Frontend Mentor -Recipe Page Solution
 
-Il s'agit d'une solution au [Défi de la page de recettes sur Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). Les défis Frontend Mentor vous aident à améliorer vos compétences en codage en construisant des projets réalistes. 
+This is a solution to the [Recipe Page Challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-## Table des matières
+## Table of contents
 
--[Aperçu](#aperçu)
-  -[Le défi](#le-défi)
-  -[Capture d'écran](#capture d'écran)
-  -[Liens](#liens)
--[Mon processus](#mon-processus)
-  -[Construit avec](#built-with)
--[Ce que j'ai appris](#ce que j'ai appris)
-  -[Développement continu](#continued-development)
-  -[Ressources utiles](#ressources-utiles)
-  -[Collaboration IA](#ai-collaboration)
--[Auteur](#auteur)
--[Remerciements](#reconnaissances)
+-[Preview](#preview)
+  -[The challenge](#the-challenge)
+  -[Screenshot](#captured_screen)
+  -[Links](#links)
+-[My process](#my-process)
+  -[Built with](#built-with)
+-[What I learned](#what I learned)
+  -[Continued development](#continued-development)
+  -[Useful resources](#useful-resources)
+  -[AI collaboration](#ai-collaboration)
+-[Author](#author)
+-[Acknowledgments](#acknowledgements)
 
 
-## Aperçu
+## Overview
 
-Création d'une page de recette proposé par Frontend Mentor. 
+Creation of a recipe page proposed by Frontend Mentor. 
 
-### Capture d'écran
+### Screenshot
 
 ![Recipe image](image.png)
 
-### Liens
+### Links
 
--URL de la solution : [Ajoutez l'URL de la solution ici](https://votre-solution-url.com)
--URL du site en direct : [Ajoutez l'URL du site en direct ici](https://your-live-site-url.com)
+-Solution URL: [Recipe Page](https://github.com/Harena-debug/Recipe-Page)
+-Live site URL: [Live demo](https://harena-debug.github.io/Recipe-Page/)
 
-## Mon processus
+## My process
 
-J'ai réalisé ce projet de recette de la manière suivante:
+I made this recipe project as follows:
 
-### Construit avec
+### Built with
 
--HTML 5 Sémantique pour la mise en page du recette
--Accessibilité avec les concepts d'ARIA
--CSS Flexbox pour le centrage du contenu
--CSS :hover et :focus pour l'effet au survol et l'accessibilité au clavier
+-HTML 5 Semantics for recipe layout
+-Accessibility with ARIA concepts
+-CSS Flexbox for content centering
+-CSS :hover and :focus for hover effect and keyboard accessibility
 
 
-### Ce que j'ai appris
-Dans ce projet , j'ai pu acquérir les compétences suivantes :
+### What I learned
+In this project, I was able to acquire the following skills:
 
--Accessibilité avec ARIA
-
+-Accessibility with ARIA
 ```html
 <article aria-label="Simple Omelette Recipe">
 <section id="preparation" aria-labelledby="preparation-title">
@@ -65,7 +64,7 @@ Dans ce projet , j'ai pu acquérir les compétences suivantes :
               <td>277kcal</td>
             </tr>
             <tr>
-              <th scope="row">Carbs</th>
+<th scope="row">Carbs</th>
               <td>0g</td>
             </tr>
             <tr>
@@ -89,7 +88,7 @@ table{
 
 table th{
     font-family: var(--font-family-paragraph);
-    font-weight: 400;
+font-weight: 400;
     color: var(--paragraph-color);
    text-align: left;
    padding: 0.75rem 2rem;
@@ -114,29 +113,27 @@ table tr:last-child{
 
 ```
 ### Développement continu
+I was able to acquire ARIA's skills in this project but I would like to go even further. 
+In the next challenge, I will use ARIA concepts better and better only if necessary. I will also try to add the CSS Grid if the challenge contains it.
 
-J'ai pu acquérir la compétence d'ARIA dans ce projet mais je voudrais aller encore plus loin. 
-Dans le prochain défi , j'utiliserai de mieux en mieux les concepts d'ARIA seulement s'il est nécéssaire. J'essayerai aussi d'ajouter le CSS Grid si le défi en contient.
+### Useful resources
 
-### Ressources utiles
+-[MDNWebDocs](https://developer.mozilla.org/en-US/) -This is the place that allowed me to understand and explore the concept of accessibility
+-[W3Schools](https://www.w3schools.com/) -This is my playground to learn and code at the same time.
 
--[MDNWebDocs](https://developer.mozilla.org/en-US/) -C'est l'endroit qui m'a permis de comprendre et d'explorer le concept d'accessibilité
--[W3Schools](https://www.w3schools.com/) -Ceci est mon terrain pour apprendre et coder en même temps.
+### AI collaboration
 
-### Collaboration IA
+I collaborated with AIs in the following ways:
 
-J'ai collaboré avec les IA de la manière suivante:
-
--J'ai utilisé les IA Claude et Chatgpt dans ce projet
--Ils m'ont aidés à corriger des erreurs qui bloquaient le résultat de ma page
+-I used the Claude and Chatgpt AIs in this project
+-They helped me correct errors that blocked the results of my page
 
 
-## Auteur
+## Author
 
--Site Web -[Harena](https://github.com/Harena-debug)
--Mentor Frontend -[@ Harena-debug](https://www.frontendmentor.io/profile/Harena-debug)
+-Website -[Harena](https://github.com/Harena-debug)
+-Mentor Frontend -[@Harena-debug](https://www.frontendmentor.io/profile/Harena-debug)
 
-## Remerciements
-
-Un grand merci à Frontend Mentor qui m'a proposé ce défi afin de m'éxercer dans la pratique du HTML CSS. Un grand merci aussi aux 
-mentorat dans Frontend Mentor qui m'ont corrigé et m'ont donnés la bonne voie pour le bon codage en HTML CSS.
+## Acknowledgments
+A big thank you to Frontend Mentor who offered me this challenge in order to practice HTML CSS. A big thank you also to the 
+mentoring in Frontend Mentor who corrected me and gave me the right path for good coding in HTML CSS.
