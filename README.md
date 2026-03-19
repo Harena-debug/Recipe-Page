@@ -28,7 +28,7 @@ Creation of a recipe page proposed by Frontend Mentor.
 The challenge is to create a recipe page using the right HTML semantics and accessibility.
 ### Screenshot
 
-![Recipe image](image.png)
+![Recipe Image](image-1.png)
 
 ### Links
 
